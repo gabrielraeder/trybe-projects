@@ -1,5 +1,6 @@
-# TRYBE
+# Trybe
 ## Projetos
+Repositório de projetos desenvolvidos no curso da Trybe por [Gabriel Gonçalves](https://www.linkedin.com/in/gabrielraedergoncalves/).
 ### Fundamentos - módulo 01
 
 ##### Bloco 3
