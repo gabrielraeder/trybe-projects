@@ -3,10 +3,10 @@
 ### Fundamentos - módulo 01
 
 ##### Bloco 3
-- [Projeto - HTML & CSS](https://github.com/gabrielraeder/trybe-projects/tree/main/01-Lessons-learned)
+- [Projeto - HTML & CSS](https://github.com/gabrielraeder/trybe-projects/tree/main/Projetos/Fundamentos/01-Lessons-learned)
 
 ##### Bloco 4
-- [Projeto - Playground Functions](https://github.com/gabrielraeder/trybe-projects/tree/main/02-playground-functions)
+- [Projeto - Playground Functions](https://github.com/gabrielraeder/trybe-projects/tree/main/Projetos/Fundamentos/02-playground-functions)
 
 ##### Bloco 5
 - [Projeto - Arte com Pixels](https://github.com/gabrielraeder/trybe-projects/tree/main/03-1-pixels-art)
