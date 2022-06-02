@@ -9,7 +9,7 @@
 [Projeto - Playground Functions](https://github.com/gabrielraeder/trybe-projects/tree/main/02-playground-functions)
 
 ##### Bloco 5
-[Projeto - Arte com Pixels](https://github.com/gabrielraeder/trybe-projects/tree/main/03-1-pixels-art)
+[Projeto - Arte com Pixels](https://github.com/gabrielraeder/trybe-projects/tree/main/03-1-pixels-art)_
 [Projeto - Meme Generator](https://github.com/gabrielraeder/trybe-projects/tree/main/03-5-meme-generator)
 [Projeto - Lista de tarefas](https://github.com/gabrielraeder/trybe-projects/tree/main/03-3-to-do-list)
 [Projeto - Adivinhe a Cor](https://github.com/gabrielraeder/trybe-projects/tree/main/03-4-Color-guess)
