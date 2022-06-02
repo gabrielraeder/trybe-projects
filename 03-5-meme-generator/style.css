@@ -1,0 +1,30 @@
+h4 {
+  display: inline-block;
+  margin: 15px;
+}
+
+#meme-image-container {
+  border: 1px solid black;
+  height: 350px;
+  width: 340px;
+  background-color: white;
+}
+
+#meme-text {
+  margin-top: 80%;
+  width: 80%;
+  margin-left: 8%;
+  position: relative;
+  text-shadow: 5px 5px 5px black;
+  font-size: 30px;
+  color: white;
+}
+
+#meme-image {
+  width: 340px;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+  position: fixed;
+  
+}
