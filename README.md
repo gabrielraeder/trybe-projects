@@ -37,3 +37,5 @@ Repositório de projetos desenvolvidos no curso da Trybe por [Gabriel Gonçalves
 - [Projeto - TrybeWallet](https://github.com/gabrielraeder/trybewallet)
 
 - [Projeto - Trivia Game](https://github.com/gabrielraeder/trivia-game)
+
+- [Projeto - Star Wars planet search](https://github.com/gabrielraeder/star-wars-planet-search)
