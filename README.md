@@ -24,4 +24,6 @@ Repositório de projetos desenvolvidos no curso da Trybe por [Gabriel Gonçalves
 
 - [Projeto - Shopping cart](https://github.com/gabrielraeder/trybe-projects/tree/main/Projetos/Front-end/07-shopping-cart)
 
+- [Projeto - Solar System](https://github.com/gabrielraeder/Solar-system-project)
+
 - [Projeto - Online Store](https://github.com/gabrielraeder/online-store-project)
