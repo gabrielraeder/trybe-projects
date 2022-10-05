@@ -31,3 +31,5 @@ Repositório de projetos desenvolvidos no curso da Trybe por [Gabriel Gonçalves
 - [Projeto - Tryunfo](https://github.com/gabrielraeder/tryunfo)
 
 - [Projeto - TrybeTunes](https://github.com/gabrielraeder/trybetunes)
+
+- [Projeto - React Testing Library Project](https://github.com/gabrielraeder/RTL-project)
