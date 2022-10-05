@@ -20,7 +20,7 @@ Repositório de projetos desenvolvidos no curso da Trybe por [Gabriel Gonçalves
 - [Projeto - Zoo Functions](https://github.com/gabrielraeder/trybe-projects/tree/main/Projetos/Fundamentos/06-Zoo-functions)
 
 
-### Front-End - módulo 02
+### Front-End - módulo 02 ✔️
 
 - [Projeto - Shopping cart](https://github.com/gabrielraeder/trybe-projects/tree/main/Projetos/Front-end/07-shopping-cart)
 
