@@ -35,3 +35,5 @@ Repositório de projetos desenvolvidos no curso da Trybe por [Gabriel Gonçalves
 - [Projeto - React Testing Library Project](https://github.com/gabrielraeder/RTL-project)
 
 - [Projeto - TrybeWallet](https://github.com/gabrielraeder/trybewallet)
+
+- [Projeto - Trivia Game](https://github.com/gabrielraeder/trivia-game)
