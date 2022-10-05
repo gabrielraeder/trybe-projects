@@ -27,3 +27,5 @@ Repositório de projetos desenvolvidos no curso da Trybe por [Gabriel Gonçalves
 - [Projeto - Solar System](https://github.com/gabrielraeder/Solar-system-project)
 
 - [Projeto - Online Store](https://github.com/gabrielraeder/online-store-project)
+- 
+- [Projeto - Tryunfo](https://github.com/gabrielraeder/tryunfo)
