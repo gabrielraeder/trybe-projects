@@ -22,7 +22,6 @@ Repositório de projetos desenvolvidos no curso da Trybe por [Gabriel Gonçalves
 
 ### Front-End - módulo 02
 
-##### Bloco 9
 - [Projeto - Shopping cart](https://github.com/gabrielraeder/trybe-projects/tree/main/Projetos/Front-end/07-shopping-cart)
 
 - [Projeto - Online Store](https://github.com/gabrielraeder/online-store-project)
